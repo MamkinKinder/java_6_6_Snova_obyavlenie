@@ -3,7 +3,10 @@ package it.campe;
 public class Main {
 
     public static void main(String[] args) {
-        //напишите тут ваш код
+        String word = ("Love");
+        String phrase = ("Saves");
+        String line = ("The");
+        String text = ("World");
 
     }
 }
